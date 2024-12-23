@@ -51,8 +51,6 @@ This repository includes the following supporting documents:
 2. **DOCS**: Includes problem descriptions and MongoDB query solutions with visual aids.
 3. **TXT**: Plain text version of the solutions for quick reference.
 
-You can find the attachments in the `/docs` folder.
-
 ----
 
 ## Contribution Guidelines
@@ -64,5 +62,3 @@ You can find the attachments in the `/docs` folder.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
----
