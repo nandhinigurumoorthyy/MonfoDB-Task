@@ -30,7 +30,6 @@ The MongoDB Shell (`mongosh`) is an interactive JavaScript interface for MongoDB
 Key features:
 - **Query Language Support**: Write MongoDB queries in a JavaScript-like syntax.
 - **Administrative Commands**: Manage databases, collections, and server settings.
-- **Integration with Scripts**: Automate repetitive tasks using JavaScript.
 
 ### MongoDB Compass (Version 1.45.0)
 MongoDB Compass is a GUI tool for managing and interacting with MongoDB. Version 1.45.0 introduces enhanced features for ease of use and performance. It is ideal for visualizing data and debugging queries.
@@ -43,6 +42,18 @@ Key features:
 - **Data Import/Export**: Import or export data in various formats like JSON and CSV.
 
 ---
+
+## Supporting Documentation
+
+This repository includes the following supporting documents:
+
+1. **PDF**: Contains detailed explanations and screenshots of the solutions.
+2. **DOCS**: Includes problem descriptions and MongoDB query solutions with visual aids.
+3. **TXT**: Plain text version of the solutions for quick reference.
+
+You can find the attachments in the `/docs` folder.
+
+----
 
 ## Contribution Guidelines
 - Fork the repository and create a new branch for your contributions.
